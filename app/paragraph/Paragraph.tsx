@@ -10,8 +10,16 @@ export default function Paragraph (){
             We are planning on using an API that has food nutrition data, so the user can input a food that they ate
             and it pulls the calories from it as well as the macros and records it. The user can set a desired daily goal,
             and it will show the % they are to their goal.
-            Repo for this assignment:
-            <a href=""></a>
+            <br></br>
+            <br></br>
+            Repo for this assignment: 
+            <a 
+                href="https://github.com/skylerbeckwith/my-nextjs-app"
+                style={{ color: "blue", textDecoration: "underline" }}
+            >
+                Github Repo
+            </a>
+            .
         </p>
-    )
+    );
 }
